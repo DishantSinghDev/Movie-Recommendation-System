@@ -13,3 +13,9 @@ Phone Number	(703) 642-0012
 Country	United States
 Latitude	38.828743
 Longitude	-77.189019
+
+ASU Details:
+Name: Leila Rutherford
+Your ASURITE User ID: lruther4
+Your ASU Email Address: lruther4@asu.edu
+Forwarding ASU Emails To: dishupandey57@gmail.com
